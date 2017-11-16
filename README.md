@@ -25,4 +25,5 @@ The Get-OutlookFolderCount function allows you to get counts of folders within a
 * Verify error handling
 * Add more functions
   * Frequent Senders
+  * Unread email per folder
   * Warning on count

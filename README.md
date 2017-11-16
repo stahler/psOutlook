@@ -20,6 +20,7 @@ The Get-OutlookFolderCount function allows you to get counts of folders within a
 
 ## TODO
 * Finish MD file
+* Convert to module
 * Add help
 * Verify error handling
 * Add more functions

@@ -1,5 +1,9 @@
-# Analyzing Outlook with PowerShell
-The Get-OutlookFolderCount function allows you to get counts of folders within a mailbox.  You can supply the root folder and if needed a list of specific subfolders you want a count.
+# psOutlook
+The psOutlook module has a few functions that will enable you to analyze outlook.  
+Examples:
+* Get-OutlookFolderCount: allows you to get counts of folders within a mailbox.  You can supply the root folder and if needed a list of specific subfolders you want a count.
+* Get-OutlookSenders: Get a count of who is sending you emails
+* Get-OutlookUnReadCount: Get a count of unread emails per folder
 
 ## Prerequisites
 * PowerShell V3+

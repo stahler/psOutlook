@@ -1,4 +1,4 @@
-# psOutlook
+# psOutlook (work in progress)
 The psOutlook module has a few functions that will enable you to analyze outlook.  
 Examples:
 * Get-OutlookFolderCount: allows you to get counts of folders within a mailbox.  You can supply the root folder and if needed a list of specific subfolders you want a count.
